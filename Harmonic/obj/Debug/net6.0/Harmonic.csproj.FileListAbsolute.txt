@@ -1,0 +1,15 @@
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\bin\Debug\net6.0\Harmonic.exe
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\bin\Debug\net6.0\Harmonic.deps.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\bin\Debug\net6.0\Harmonic.runtimeconfig.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\bin\Debug\net6.0\Harmonic.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\bin\Debug\net6.0\Harmonic.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.AssemblyInfoInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.AssemblyInfo.cs
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\refint\Harmonic.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\Harmonic.genruntimeconfig.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\Harmonic\Harmonic\obj\Debug\net6.0\ref\Harmonic.dll
