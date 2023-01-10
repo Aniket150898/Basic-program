@@ -1,0 +1,15 @@
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\bin\Debug\net6.0\SwapNum.exe
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\bin\Debug\net6.0\SwapNum.deps.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\bin\Debug\net6.0\SwapNum.runtimeconfig.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\bin\Debug\net6.0\SwapNum.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\bin\Debug\net6.0\SwapNum.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.AssemblyInfoInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.AssemblyInfo.cs
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\refint\SwapNum.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\SwapNum.genruntimeconfig.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\SwapNum\obj\Debug\net6.0\ref\SwapNum.dll
