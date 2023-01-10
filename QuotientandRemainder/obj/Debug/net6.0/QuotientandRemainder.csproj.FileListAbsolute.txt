@@ -1,0 +1,15 @@
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\bin\Debug\net6.0\QuotientandRemainder.exe
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\bin\Debug\net6.0\QuotientandRemainder.deps.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\bin\Debug\net6.0\QuotientandRemainder.runtimeconfig.json
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\bin\Debug\net6.0\QuotientandRemainder.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\bin\Debug\net6.0\QuotientandRemainder.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.csproj.AssemblyReference.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.AssemblyInfoInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.AssemblyInfo.cs
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\refint\QuotientandRemainder.dll
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.pdb
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\QuotientandRemainder.genruntimeconfig.cache
+C:\Users\Aniket\Desktop\Assignment\Basic-program\QuotientandRemainder\obj\Debug\net6.0\ref\QuotientandRemainder.dll
